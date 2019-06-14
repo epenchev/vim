@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/emo/workspace/clearcorrect/application/cpp/cut/src/cutlibinternal/headers'
+let g:netrw_dirhist_2='/home/emo/workspace/clearcorrect/library/cpp'
+let g:netrw_dirhist_3='/home/emo/workspace/clearcorrect/library/cpp/clearlib'
+let g:netrw_dirhist_4='/home/emo/workspace/clearcorrect/library/cpp/clearlib/src'
+let g:netrw_dirhist_5='/home/emo/workspace/clearcorrect/library/cpp/clearlib/src/clearlib'
+let g:netrw_dirhist_6='/home/emo/workspace/clearcorrect/library/cpp/clearlib/src/clearlib/headers'
+let g:netrw_dirhist_7='/home/emo/workspace/clearcorrect/application/cpp/cut'
+let g:netrw_dirhist_8='/home/emo/workspace/clearcorrect/application/cpp/cut/src/cutlibinternal/cpp'
